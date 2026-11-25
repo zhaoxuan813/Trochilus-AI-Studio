@@ -1,4 +1,4 @@
-# OmniAI Desktop - Releases
+#Trochilus AI Studio Desktop - Releases
 
 Public downloads for **OmniAI Desktop**, a multi-webview AI aggregation workbench
 (Rust + Tauri 2 + WebView2). Up to 6 independent AI panels in one native window,
